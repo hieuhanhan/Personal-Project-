@@ -1,8 +1,8 @@
-Requirements
-	•	Python 3.9.12
-	•	pandas
-	•	numpy
-	•	matplotlib
-	•	seaborn
-	•	scikit-learn
-	•	xgboost
+Requirements:
+Python 3.9.12
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
