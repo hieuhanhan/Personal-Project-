@@ -1,11 +1,10 @@
 # Recyclable Waste Classification
 
-This project demonstrates a machine learning approach to classify waste as recyclable or non-recyclable using image data. The goal is to assist in automated waste sorting, improving recycling efficiency and reducing environmental impact.
+This project demonstrates a machine learning approach to classify wastes as recyclable or non-recyclable using image data. The goal is to assist in automated waste sorting, improving recycling efficiency and reducing environmental impact.
 
-## Project Overview
+## Project Overview:
 
 - **Notebook:** `recyclable-waste-classification.ipynb`
-- **Author:** Hieu Han Han
 - **Category:** Computer Vision, Classification, Machine Learning
 
 ## Dataset
@@ -35,7 +34,7 @@ The project uses a dataset of waste images categorized into recyclable and non-r
 ## Requirements
 
 - Python 3.x
-- TensorFlow or PyTorch
+- TensorFlow/PyTorch
 - NumPy
 - Matplotlib
 - scikit-learn
