@@ -1,0 +1,5 @@
+**Requirements:**
+pandas
+sqlalchemy
+google-generativeai
+jupyter
